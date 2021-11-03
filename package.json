@@ -16,7 +16,7 @@
     "mongoose": "^5.7.1",
     "node": "^12.11.1",
     "nodemon": "^1.19.3",
-    "validator": "^11.1.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {},
   "scripts": {
