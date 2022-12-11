@@ -9,7 +9,7 @@
     "core-util-is": "^1.0.2",
     "dotenv": "^8.1.0",
     "env-cmd": "^10.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-validator": "^6.2.0",
     "firebase-admin": "^8.5.0",
     "jsonwebtoken": "^8.5.1",
